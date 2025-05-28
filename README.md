@@ -12,8 +12,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
     - [Clone the Repository](#clone-the-repository)
-    - [With Docker](#with-docker)
-    - [Without Docker](#without-docker)
       - [On Linux](#on-linux)
       - [On Windows](#on-windows)
   
