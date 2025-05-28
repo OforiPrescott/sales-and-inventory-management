@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Prescott Ofori's Logo" width="100" />
-</div>
+
 
 # Django-inventory-management
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
