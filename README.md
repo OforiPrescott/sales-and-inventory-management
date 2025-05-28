@@ -36,19 +36,7 @@ git clone: https://github.com/OforiPrescott/sales-and-inventory-management.git
 cd sales-and-inventory-management
 ```
 
-### With Docker
 
-1. **Build the Docker Image**
-
-    ```bash
-    docker build -t sales-and-inventory-management:1.0 .
-    ```
-
-2. **Run the Docker Container**
-
-    ```bash
-    docker run -d -p 8000:8000 sales-and-inventory-management:1.0
-    ```
 
 ### Without Docker
 
