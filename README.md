@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
+  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Prescott Ofori's Logo" width="100" />
 </div>
 
 # Django-inventory-management
@@ -18,8 +18,7 @@
     - [Without Docker](#without-docker)
       - [On Linux](#on-linux)
       - [On Windows](#on-windows)
-  - [Screenshots](#screenshots)
-  - [Authors](#authors)
+  
 
 ## Description
 This Django application offers a solution for managing business operations with an emphasis on user experience and modern web technologies. It integrates Bootstrap for front-end design and employs Ajax for dynamic sales creation. The application features models for user profiles, vendors, customers, and transactions, including billing, invoicing, and inventory management.
@@ -35,7 +34,7 @@ Follow these steps to install the necessary dependencies and set up the applicat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/munuhee/sales-and-inventory-management.git
+git clone: https://github.com/OforiPrescott/sales-and-inventory-management.git
 cd sales-and-inventory-management
 ```
 
