@@ -1,5 +1,5 @@
 """
-ASGI config for InventoryMS project.
+ASGI config for PresHacks project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
